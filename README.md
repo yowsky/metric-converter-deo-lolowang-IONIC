@@ -15,6 +15,9 @@ Pengguna dapat membuka aplikasi Metric Converter di perangkat Android. Berikut l
 4. Masukkan nilai yang ingin dikonversi.
 5. Menampilkan hasil konversi.
 
+## Demo Aplikasi
+![mobile](https://github.com/yowsky/metric-converter-deo-lolowang-IONIC/assets/130836095/5f5e2158-3f2c-4298-b8f3-6f403fd05a09)
+
 ## Kontribusi
 Kami selalu menyambut kontribusi dari pengembang. Untuk berkontribusi dalam proyek ini, ikuti langkah-langkah berikut:
 1. Fork repositori ini.
